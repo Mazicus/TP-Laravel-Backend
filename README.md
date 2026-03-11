@@ -1,4 +1,4 @@
-# # TP Laravel Backend
+# TP Laravel Backend
 
 A simple Laravel backend project.
 
@@ -23,7 +23,16 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
-Usage
-Once running, the API will be available at http://localhost:8000
-Author
-Faiz Adnane
+```
+
+## Usage
+
+Once running, the API will be available at `http://localhost:8000`
+
+## Author
+
+**Faiz Adnane**
+
+## License
+
+This project is for learning purposes.
